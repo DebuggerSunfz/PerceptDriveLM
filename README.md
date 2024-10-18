@@ -6,7 +6,7 @@ This repository contains the code for the paper titled "Towards Robust Autonomou
 
 #### Main Structure
 
-![image-20241018144926875](C:\Users\孙先森\AppData\Roaming\Typora\typora-user-images\image-20241018144926875.png)
+![image-20241018144926875](results.png)
 
 #### Main Results
 

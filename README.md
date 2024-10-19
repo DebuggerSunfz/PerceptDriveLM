@@ -44,10 +44,4 @@ Please refer to [dataset_prepare.md](https://github.com/PhoenixZ810/MG-LLaVA/blo
   
 #### Acknowledgement
 ------
-We are preparing for open-source release.  This repository is being continuously updated.  Please feel free to contact us if you have any questions
-
-
-#### Acknowledgement
-
-We are preparing for open-source release.
-
+We are preparing for open-source release.  This repository is being continuously updated.  Please feel free to contact us if you have any questions.

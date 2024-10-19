@@ -6,11 +6,11 @@ This repository contains the code for the paper titled "Towards Robust Autonomou
 
 #### Main Structure
 
-![image-20241018144926875](structure.png)
+![image-20241018144926875](images/structure.png)
 
 #### Main Results
 
-![image-20241018144926875](results.png)
+![image-20241018144926875](images/results.png)
 
 #### Quick Start
 

@@ -4,7 +4,7 @@
 
 This repository contains the code for the paper titled "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception" which is submitted to ICRA2025.
 
-#### Main Structure
+#### Main PipeLine
 
 ![image-20241018144926875](images/structure.png)
 
@@ -41,12 +41,13 @@ Please refer to [dataset_prepare.md](https://github.com/PhoenixZ810/MG-LLaVA/blo
   ```
   bash script/train_sft.sh
   ```
-
+  
+#### Acknowledgement
 ------
-
+We are preparing for open-source release.  This repository is being continuously updated.  Please feel free to contact us if you have any questions
 
 
 #### Acknowledgement
 
-The project is built on top of the amazing multimodal large language model [LLaVA](https://github.com/haotian-liu/LLaVA). Thanks for these great work! 
+We are preparing for open-source release.
 
